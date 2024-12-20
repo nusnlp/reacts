@@ -1,0 +1,331 @@
+{
+  "Al_Gore": {
+    "0": "Focus on Al Gore's awards, honors, or recognitions.",
+    "1": "Focus on Gore's engagement in media ventures.",
+    "2": "Focus on Gore's entrepreneurial activities and board memberships.",
+    "3": "Focus on Gore's involvement in environmental initiatives and legislation.",
+    "4": "Focus on Gore's roles as vice president, his presidential campaign, and his involvement in the 2000 election recount in Florida."
+  },
+  "Angela_Merkel": {
+    "0": "Focus on Angela Merkel's awards.",
+    "1": "Focus on Angela Merkel's re-elections in 2009 and 2013.",
+    "2": "Focus on Merkel's interactions with Presidents Barack Obama or Donald Trump.",
+    "3": "Focus on Merkel's interactions with politicians from the United States or activities in the United States.",
+    "4": "Focus on events related to the NSA scandal involving Angela Merkel."
+  },
+  "Ariel_Sharon": {
+    "0": "Focus on Ariel Sharon's health or medical conditions.",
+    "1": "Focus on Ariel Sharon's interactions with international leaders.",
+    "2": "Focus on Israeli-Palestinian interactions and peace negotiations.",
+    "3": "Focus on Sharon's actions in the Likud party.",
+    "4": "Focus on Sharon's military and diplomatic actions and decisions while in office."
+  },
+  "Arnold_Schwarzenegger": {
+    "0": "Focus on Arnold Schwarzenegger's health or medical conditions.",
+    "1": "Focus on Arnold Schwarzenegger's legal battles or court cases.",
+    "2": "Focus on accusations against Schwarzenegger.",
+    "3": "Focus on milestones and changes in Schwarzenegger's personal life.",
+    "4": "Focus on significant events related to Schwarzenegger's gubernatorial career."
+  },
+  "Bashar_al-Assad": {
+    "0": "Focus on Assad's interactions and communications with various media outlets.",
+    "1": "Focus on criticisms from international leaders and organizations regarding Assad's regime.",
+    "2": "Focus on international sanctions imposed on Assad and Syria.",
+    "3": "Focus on the relations between Syria and the European Union.",
+    "4": "Focus on the second instance Assad was re-elected as president."
+  },
+  "Bill_Clinton": {
+    "0": "Focus on Bill Clinton's awards, honors, or recognitions.",
+    "1": "Focus on Bill Clinton's health or medical conditions.",
+    "2": "Focus on Bill Clinton's legal battles or court cases.",
+    "3": "Focus on Clinton's second term presidential election victory.",
+    "4": "Focus on the Lewinsky scandal relating to Bill Clinton."
+  },
+  "Charles_Taylor": {
+    "0": "Focus on Charles Taylor's legal battles or court cases.",
+    "1": "Focus on Taylor's appearance at tribunals or courts.",
+    "2": "Focus on Taylor's election and resignation as president of Liberia.",
+    "3": "Focus on Taylor's recapture in Nigeria.",
+    "4": "Focus on actions taken by Taylor's lawyers and attorneys."
+  },
+  "Chris_Brown": {
+    "0": "Focus on Chris Brown's assault on Rihanna and its legal proceedings.",
+    "1": "Focus on events related to Chris Brown's contract dispute in the Philippines.",
+    "2": "Focus on the incidents of property crime affecting Chris Brown.",
+    "3": "Focus on the incidents of violence involving Chris Brown, including assaults and altercations.",
+    "4": "Focus on the rehabilitation efforts and challenges Chris Brown faced."
+  },
+  "David_Beckham": {
+    "0": "Focus on Beckham\u2019s games with the LA Galaxy.",
+    "1": "Focus on Beckham\u2019s involvement with UNICEF.",
+    "2": "Focus on David Beckham's awards, honors, or recognitions.",
+    "3": "Focus on David Beckham's health or medical conditions.",
+    "4": "Focus on David Beckham's legal battles or court cases."
+  },
+  "David_Bowie": {
+    "0": "Focus on David Bowie's awards, honors, or recognitions.",
+    "1": "Focus on David Bowie's health, medical conditions, and death.",
+    "2": "Focus on the opening of the Lazarus musical off-Broadway in 2015.",
+    "3": "Focus on the posthumous Grammy nominations received by David Bowie.",
+    "4": "Focus on the release of David Bowie's albums."
+  },
+  "Dilma_Rousseff": {
+    "0": "Focus on Dilma Rousseff's electoral victories in 2010 and re-election in 2014.",
+    "1": "Focus on Dilma Rousseff's legal battles or court cases.",
+    "2": "Focus on Rousseff's international diplomatic actions at the United Nations.",
+    "3": "Focus on the NSA spying controversy and its impact on Rousseff's relations with the United States.",
+    "4": "Focus on the political events related to Dilma Rousseff's impeachment."
+  },
+  "Dmitry_Medvedev": {
+    "0": "Focus on Dmitry Medvedev's political relationship with Putin.",
+    "1": "Focus on Medvedev's activities and political decisions, such as presidential elections, swearing-in ceremonies, and legislative endorsements.",
+    "2": "Focus on Medvedev's deployment threat on November, 2008.",
+    "3": "Focus on Medvedev's interactions with neighboring countries, specifically Georgia\u2019s breakaway regions and North Korea.",
+    "4": "Focus on US President Barack Obama's collaboration with Medvedev on nuclear arms reduction in 2009 and 2010."
+  },
+  "Dominique_Strauss-Kahn": {
+    "0": "Focus on Dominique Strauss-Kahn's legal battles or court cases.",
+    "1": "Focus on Strauss-Kahn's interactions with French legal authorities, including the investigation and complaints filed in France.",
+    "2": "Focus on events related to the \"aggravated pimping\" charges.",
+    "3": "Focus on events related to the criminal complaint by Tristane Banon against Strauss-Kahn.",
+    "4": "Focus on events related to the legal case with Nafissatou Diallo"
+  },
+  "Edward_Snowden": {
+    "0": "Focus on Barton Gellman interactions with Snowden.",
+    "1": "Focus on his application for and eventual granting of asylum in Russia.",
+    "2": "Focus on his stay and activities in Moscow, Russia, beginning on June 23, 2013.",
+    "3": "Focus on the legal actions and accusations brought against Snowden by the US government.",
+    "4": "Focus on the release of the film \"Snowden\"."
+  },
+  "Ehud_Olmert": {
+    "0": "Focus on Ehud Olmert's legal battles or court cases.",
+    "1": "Focus on Israel's leadership changes from 2005 to 2008.",
+    "2": "Focus on Olmert\u2019s interactions and political engagements with the US Congress.",
+    "3": "Focus on events related to the Kadima party.",
+    "4": "Focus on events related to the Rishon Tours and Talansky scandals."
+  },
+  "Enron": {
+    "0": "Focus on changes in leadership roles at Enron, particularly the positions of CEO and chairman.",
+    "1": "Focus on legal actions and investigations initiated by regulatory bodies, such as the SEC (Securities and Exchange Commission) and DOJ (Department of Justice).",
+    "2": "Focus on major corporate transactions and merger discussions involving Enron.",
+    "3": "Focus on the criminal charges and legal proceedings faced by key Enron executives.",
+    "4": "Focus on the role and consequences faced by Arthur Andersen LLP."
+  },
+  "Hamid_Karzai": {
+    "0": "Focus on Hamid Karzai's survival from multiple assassination attempts.",
+    "1": "Focus on Karzai's announcement regarding Afghan security forces leading military operations.",
+    "2": "Focus on Karzai's political activities and meetings in the United States.",
+    "3": "Focus on events related to the presidential election held in Afghanistan in 2009.",
+    "4": "Focus on the dates marking the beginning and end of Karzai's terms."
+  },
+  "Hassan_Rouhani": {
+    "0": "Focus on President Barack Obama's telephone conversation with Hassan Rouhani.",
+    "1": "Focus on Rouhani's condemnation of Nazi actions during the Holocaust.",
+    "2": "Focus on Rouhani's engagement with the international community through his Washington Post column and UN speeches.",
+    "3": "Focus on Rouhani's re-election victory in 2017 presidential election.",
+    "4": "Focus on the nuclear deal negotiations in Vienna involving Iran and world powers."
+  },
+  "Hu_Jintao": {
+    "0": "Focus on Hu Jintao stepping down from his leadership roles.",
+    "1": "Focus on Hu Jintao's election as President.",
+    "2": "Focus on Hu Jintao's meetings with political figures.",
+    "3": "Focus on Hu Jintao's official visits to other countries.",
+    "4": "Focus on Hu Jintao's third significant leadership role as Chairman of the Central Military Commission."
+  },
+  "Jacob_Zuma": {
+    "0": "Focus on Jacob Zuma's legal battles or court cases.",
+    "1": "Focus on Zuma's presidential elections and inaugurations.",
+    "2": "Focus on the actions and decisions of the South African Supreme Court of Appeal regarding Zuma's corruption charges.",
+    "3": "Focus on the new corruption charges being brought against Zuma on 2007.",
+    "4": "Focus on the stance and statements of the ANC (African National Congress)."
+  },
+  "John_Boehner": {
+    "0": "Focus on Boehner's interactions and actions involving prominent political figures, including inviting Pope Francis to speak.",
+    "1": "Focus on Boehner's legal actions and resolutions against President Barack Obama's policies.",
+    "2": "Focus on Boehner's transition and activities after retiring from the position of House Speaker.",
+    "3": "Focus on events related to Boehner's resignation.",
+    "4": "Focus on the circumstances and challenges surrounding Boehner's elections as Speaker."
+  },
+  "John_Kerry": {
+    "0": "Focus on John Kerry's health or medical conditions.",
+    "1": "Focus on Kerry's endorsements and support for other political candidates.",
+    "2": "Focus on events and statements relating to Kerry's candidacy in the presidential election.",
+    "3": "Focus on events related to the nuclear deal with Iran.",
+    "4": "Focus on major apologies or public statements that caused controversy."
+  },
+  "Julian_Assange": {
+    "0": "Focus on events involving Assange's legal actions or appeals in 2015.",
+    "1": "Focus on events involving Assange's legal actions or appeals in 2015.",
+    "2": "Focus on the UN's involvement in Assange\u2019s situations.",
+    "3": "Focus on the release of diplomatic and military documents by WikiLeaks.",
+    "4": "Focus on the role of the Swedish Prosecutor's Office in initiating and later rescinding the arrest warrant for Assange."
+  },
+  "Lance_Armstrong": {
+    "0": "Focus on Armstrong's Tour de France victories in France.",
+    "1": "Focus on Armstrong's performance in the Tour de France from 2009 to 2010.",
+    "2": "Focus on Armstrong's relationship with Nike and Oakley.",
+    "3": "Focus on Lance Armstrong's health or medical conditions.",
+    "4": "Focus on Lance Armstrong's legal battles or court cases."
+  },
+  "Mahmoud_Ahmadinejad": {
+    "0": "Focus on Ahmadinejad's addresses to the United Nations General Assembly.",
+    "1": "Focus on Ahmadinejad's comments about the Holocaust and Israel's existence.",
+    "2": "Focus on Ahmadinejad's interactions with international bodies and countries.",
+    "3": "Focus on Iran's nuclear program developments.",
+    "4": "Focus on events related to the presidential election."
+  },
+  "Marco_Rubio": {
+    "0": "Focus on Rubio's election to the Florida House of Representatives in 2000.",
+    "1": "Focus on Rubio's opposition to Obama.",
+    "2": "Focus on Rubio's preparations decision on the 2016 presidential bid.",
+    "3": "Focus on Rubio's re-election campaign for the US Senate in Florida in 2016.",
+    "4": "Focus on events related to Marco Rubio reported by CNN."
+  },
+  "Margaret_Thatcher": {
+    "0": "Focus on Margaret Thatcher's awards, honors, or recognitions.",
+    "1": "Focus on Margaret Thatcher's health, medical conditions, and death.",
+    "2": "Focus on Margaret Thatcher's victory in the 1983 election.",
+    "3": "Focus on the Falkland Islands' conflict involving the UK and Argentina in 1982.",
+    "4": "Focus on the arrest and legal issues of Thatcher's son, Mark, in 2004 and 2005."
+  },
+  "Michael_Jackson": {
+    "0": "Focus on Michael Jackson's awards, honors, or recognitions.",
+    "1": "Focus on Michael Jackson's health or medical conditions.",
+    "2": "Focus on Michael Jackson's legal battles or court cases.",
+    "3": "Focus on posthumous awards, recognitions, and releases related to Michael Jackson.",
+    "4": "Focus on the legal charges and court cases involving child molestation allegations from 2003 to 2005, including his booking, formal charges, and eventual acquittal."
+  },
+  "Michelle_Obama": {
+    "0": "Focus on Michelle Obama's final White House remarks.",
+    "1": "Focus on Michelle Obama's interactions with other notable public figures.",
+    "2": "Focus on Michelle Obama's involvement in the tv and film industry.",
+    "3": "Focus on her international engagement during Michelle Obama's visit to Africa.",
+    "4": "Focus on the hacking incident that exposed the financial information of Michelle Obama and other notable public figures."
+  },
+  "Mitt_Romney": {
+    "0": "Focus on Romney's 2012 general election defeat to President Barack Obama.",
+    "1": "Focus on Romney's Senate race victories.",
+    "2": "Focus on Romney's health care legislation for Massachusetts.",
+    "3": "Focus on his second run for the White House.",
+    "4": "Focus on the publication of Romney's book."
+  },
+  "Morgan_Tsvangirai": {
+    "0": "Focus on Morgan Tsvangirai's health or medical conditions.",
+    "1": "Focus on Tsvangirai's charges, arrests, and trials for treason and attempted assassination.",
+    "2": "Focus on Tsvangirai's withdrawal and losses in the presidential election.",
+    "3": "Focus on events related to Robert Mugabe.",
+    "4": "Focus on the activities of the Movement for Democratic Change (MDC)."
+  },
+  "Nawaz_Sharif": {
+    "0": "Focus on Nawaz Sharif's legal battles or court cases.",
+    "1": "Focus on Sharif's family members and their legal issues.",
+    "2": "Focus on Sharif's periods of exile and the conditions surrounding his returns to Pakistan.",
+    "3": "Focus on events related to the PPP or the military.",
+    "4": "Focus on the election and inaguration of Sharif as prime minister."
+  },
+  "Nelson_Mandela": {
+    "0": "Focus on Mandela's efforts and advocacy concerning AIDS awareness.",
+    "1": "Focus on Mandela's interactions with international figures and institutions.",
+    "2": "Focus on Nelson Mandela's health or medical conditions.",
+    "3": "Focus on events related to Mandela's legal struggles and political activities.",
+    "4": "Focus on prominent global cities hosting Mandela's memorials and tribute events post-1990 release"
+  },
+  "Osama_bin_Laden": {
+    "0": "Focus on actions taken by US Forces, including FBI, Navy Seals, and the US Justice Department, on Bin Laden.",
+    "1": "Focus on bin Laden's connections and alleged involvement in terrorist attacks.",
+    "2": "Focus on reports about Bin Laden from Taliban's leaders.",
+    "3": "Focus on the conflicting reports and rumors about bin Laden's health and possible death between 2001 and 2002.",
+    "4": "Focus on the trial and convictions of bin Laden's associates in relation to the 1998 US embassy bombings."
+  },
+  "Oscar_Pistorius": {
+    "0": "Focus on Oscar Pistorius' legal battles or court cases.",
+    "1": "Focus on Pistorius's athletic achievements and significant competitions from 2007 to 2012.",
+    "2": "Focus on bans issued against Pistorius.",
+    "3": "Focus on the events related to the boat accident on the Vaal River.",
+    "4": "Focus on the sponsorship and endorsement reactions following the 2013 arrest."
+  },
+  "Phil_Spector": {
+    "0": "Focus on the appeals process and efforts to overturn Spector's conviction.",
+    "1": "Focus on the charges and legal actions taken against Phil Spector.",
+    "2": "Focus on the conviction process and details of Spector's imprisonment sentence.",
+    "3": "Focus on the involvement and decisions made by the United States Supreme Court related to Spector's conviction.",
+    "4": "Focus on the jury selections."
+  },
+  "Prince_William": {
+    "0": "Focus on Prince William's awards.",
+    "1": "Focus on Prince William\u2019s piloting activities.",
+    "2": "Focus on events happening in France.",
+    "3": "Focus on events related to Catherine (Kate) Middleton.",
+    "4": "Focus on events related to the birth of Prince William's second child."
+  },
+  "Robert_Mugabe": {
+    "0": "Focus on Mugabe's presidential elections and inaugurations.",
+    "1": "Focus on Mugabe's visit to Italy.",
+    "2": "Focus on Zimbabwe's international relations, particularly its withdrawal from the Commonwealth and relationships with Western nations.",
+    "3": "Focus on academic and honorary recognitions and their subsequent revocations due to Mugabe's controversial actions.",
+    "4": "Focus on the targeted financial sanctions and threats against Western-owned investments in Zimbabwe."
+  },
+  "Rupert_Murdoch": {
+    "0": "Focus on Rupert Murdoch's legal battles or court cases.",
+    "1": "Focus on the phone hacking scandal involving Rupert Murdoch and News of the World.",
+    "2": "Focus on the role of British lawmakers and government officials in responding to the phone hacking scandal and media acquisitions.",
+    "3": "Focus on the significant changes in leadership and corporate structure within News Corp and its subsidiaries.",
+    "4": "Focus on the strategic business decisions and acquisitions made by 21st Century Fox and News Corp under Murdoch's leadership."
+  },
+  "Saddam_Hussein": {
+    "0": "Focus on Iraq-Iran relations.",
+    "1": "Focus on Saddam Hussein's legal battles or court cases.",
+    "2": "Focus on events related to the Baath party.",
+    "3": "Focus on events related to the presidential election.",
+    "4": "Focus on the Iraqi invasion of other countries."
+  },
+  "Sarah_Palin": {
+    "0": "Focus on Sarah Palin's legal battles or court cases.",
+    "1": "Focus on Sarah Palin's resignation as governor.",
+    "2": "Focus on her selection as John McCain's running mate in the 2008 presidential election.",
+    "3": "Focus on the influence and activities of the Tea Party movement as they relate to Sarah Palin.",
+    "4": "Focus on the timeline of Palin's media presence, including her appearances on television and her roles with Fox News."
+  },
+  "Silvio_Berlusconi": {
+    "0": "Focus on Berlusconi's acquisition and sale of the AC Milan football club.",
+    "1": "Focus on Berlusconi's third election victory.",
+    "2": "Focus on Silvio Berlusconi's health or medical conditions.",
+    "3": "Focus on Silvio Berlusconi's legal battles or court cases.",
+    "4": "Focus on the criminal charges and legal trials between 2006 and 2007."
+  },
+  "Steve_Jobs": {
+    "0": "Focus on Jobs' public appearances at major announcements to demonstrate his role in product unveilings.",
+    "1": "Focus on Jobs' resignation from his CEO role to contextualize the transition of leadership at Apple.",
+    "2": "Focus on the launch of Apple's innovative products.",
+    "3": "Focus on the launch of Apple's physical devices.",
+    "4": "Focus on the launch of Apple's software services."
+  },
+  "Taliban": {
+    "0": "Focus on Taliban's interactions with US presidents.",
+    "1": "Focus on bomb attacks claimed by Taliban.",
+    "2": "Focus on the Taliban's attack on the US embassy and NATO headquarters in Kabul.",
+    "3": "Focus on the deaths of Taliban leader.",
+    "4": "Focus on the first time the Taliban took over a provincial capital since 2001."
+  },
+  "Ted_Cruz": {
+    "0": "Focus on Cruz naming Carly Fiorina as his vice presidential running mate.",
+    "1": "Focus on Cruz's announcement, actions, and final decision on the 2016 presidential candidacy.",
+    "2": "Focus on Cruz's election as a US senator from Texas in 2012.",
+    "3": "Focus on Cruz's endorsement of Donald Trump for the presidency in 2016, despite their contentious primary rivalry.",
+    "4": "Focus on events happening at the Republican National Convention."
+  },
+  "Tiger_Woods": {
+    "0": "Focus on Tiger Woods' awards, honors, or recognitions.",
+    "1": "Focus on Tiger Woods' charitable work, philanthropic initiatives, or donations.",
+    "2": "Focus on Tiger Woods' legal battles or court cases.",
+    "3": "Focus on Tiger Woods' professional relationship with Nike.",
+    "4": "Focus on the sequence of Tiger Woods' major championship wins in 1997, 1999, and 2000."
+  },
+  "WikiLeaks": {
+    "0": "Focus on Amazon's decision to remove WikiLeaks from its servers.",
+    "1": "Focus on Chelsea Manning's legal proceedings and imprisonment in the United States.",
+    "2": "Focus on WikiLeaks' publication of emails from the Democratic National Committee.",
+    "3": "Focus on the document releases by WikiLeaks.",
+    "4": "Focus on the financial blockade against WikiLeaks."
+  }
+}
