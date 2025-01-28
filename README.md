@@ -12,5 +12,8 @@ We provide the proposed CREST dataset under the folder `data`. The data is deriv
 ### Code
 We provide the code for our method, REACTS, under the folder `code`.
 
+### Security Notice
+Be cautious when using unknown LLM models. Check the HuggingFace [security guidelines](https://huggingface.co/docs/hub/en/security-malware) before loading a model from HuggingFace.
+
 ### License
 This repository is licensed under the GNU General Public License Version 3 (see [License](./LICENSE.txt)).
