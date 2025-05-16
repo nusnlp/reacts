@@ -2,7 +2,7 @@
 This repository provides the data and code to perform constrained timeline summarization, as reported in this paper:
 > Just What You Desire: Constrained Timeline Summarization with Self-Reflection for Enhanced Relevance <br>
 > [Muhammad Reza Qorib](https://mrqorib.github.io/), [Qisheng Hu](https://openreview.net/profile?id=~Qisheng_Hu1) and [Hwee Tou Ng](https://www.comp.nus.edu.sg/~nght/). <br>
-> 2025. The 39th Annual AAAI Conference on Artificial Intelligence (to appear) [[PDF](https://arxiv.org/abs/2412.17408)].
+> 2025. The 39th Annual AAAI Conference on Artificial Intelligence, pages 25065-25073. [[PDF](https://arxiv.org/abs/2412.17408)].
 
 Please cite our paper if you use its source code or data.
 

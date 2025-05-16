@@ -7,6 +7,7 @@ We do not own the copyright of the articles and the timeline summaries. Please c
 ### Extraction
 Extract the data using the command below:
 ```
-git lfs pull
-tar -xzvf crest.tar.gz --one-top-level
+git clone https://huggingface.co/datasets/mrqorib/crest .
+mkdir crest
+tar xzvf crest-filtered.tar.gz -C crest
 ```
